@@ -26,7 +26,7 @@
 
 ## 一键部署
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/zizifn/v2ray-heroku/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/76522797/v2ray-heroku-1)
 
 ## Github Actions 管理
 
@@ -131,7 +131,7 @@ https://github.com/badafans/better-cloudflare-ip
                         "port": 443,
                         "users": [
                             {
-                                "id": "", // 填写你的 UUID
+                                "id": "72cc2fa5-b86d-437f-bf40-24e4d461617c", // 填写你的 UUID
                                 "encryption": "none"
                             }
                         ]
